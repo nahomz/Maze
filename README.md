@@ -47,7 +47,6 @@ This 3D maze uses raycasting to draw the maze walls, utilizing [LodeV's](http://
 ![The Maze Flow Chart](https://i.imgur.com/t0MxNni.png)
 ## Demo
 [![Maze Project Demo]
-(https://i.imgur.com/5Ss7s1S.png)]
 (https://youtu.be/iTO567z2Lm4)
 
 ### Resources
